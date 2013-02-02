@@ -1,4 +1,4 @@
 daapdocs
 ========
 
-Apple DAAP documentation, original from tapjam.net/daap
+Apple DAAP documentation, originally from tapjam.net/daap
